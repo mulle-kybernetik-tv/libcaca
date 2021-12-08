@@ -1,6 +1,6 @@
 
 AC_INIT([libcaca],[0.99.beta20])
-AC_PREREQ([2.71])
+AC_PREREQ([2.69])
 AC_CONFIG_AUX_DIR(.auto)
 AC_CANONICAL_TARGET
 AM_INIT_AUTOMAKE([foreign no-define tar-ustar silent-rules subdir-objects])
